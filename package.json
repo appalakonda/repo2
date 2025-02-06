@@ -1,0 +1,22 @@
+{
+  "name": "repo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appalakonda/repo2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appalakonda/repo2/issues"
+  },
+  "homepage": "https://github.com/appalakonda/repo2#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
